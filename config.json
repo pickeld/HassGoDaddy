@@ -1,0 +1,10 @@
+{
+  "name": "GoDaddy DNS Updater",
+  "version": "0.2",
+  "slug": "godady_dns_updater",
+  "description": "Auto update GoDaddy DNS Records",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
